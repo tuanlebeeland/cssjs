@@ -139,7 +139,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://faceseo.vn";
+	window.location="https://tanirealty.com";
 var linkhientai=window.location;
 if(getCookie(linkhientai)){
                 	
